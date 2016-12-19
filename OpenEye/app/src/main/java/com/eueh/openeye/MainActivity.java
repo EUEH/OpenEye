@@ -47,6 +47,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         FragmentTransaction transaction = manager.beginTransaction();
         transaction.replace(R.id.fl, fragment);
         transaction.commit();
+        //啊啊啊啊啊啊啊
     }
 
     //
