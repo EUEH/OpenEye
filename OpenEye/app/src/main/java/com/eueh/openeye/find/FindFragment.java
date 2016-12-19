@@ -1,5 +1,6 @@
 package com.eueh.openeye.find;
 
+import android.view.View;
 import android.widget.ListView;
 
 import com.eueh.openeye.R;
@@ -18,9 +19,10 @@ public class FindFragment extends BaseFragment {
     }
 
     @Override
-    public void initView() {
+    public void initView(View view) {
         lvFindG = (ListView) lvFindG.findViewById(R.id.lv_find_g);
     }
+
 
     @Override
     public void initData() {

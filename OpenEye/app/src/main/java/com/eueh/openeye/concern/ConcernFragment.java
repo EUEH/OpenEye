@@ -1,5 +1,7 @@
 package com.eueh.openeye.concern;
 
+import android.view.View;
+
 import com.eueh.openeye.R;
 import com.eueh.openeye.base.BaseFragment;
 
@@ -15,9 +17,10 @@ public class ConcernFragment extends BaseFragment {
     }
 
     @Override
-    public void initView() {
+    public void initView(View view) {
 
     }
+
 
     @Override
     public void initData() {
