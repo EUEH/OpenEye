@@ -12,10 +12,11 @@ public class SelectionFragment extends BaseFragment {
     public int setLayout() {
         return R.layout.fragment_selection;
     }
-//etretr
+
+
     @Override
     public void initView() {
-
+//去问问企鹅我去恶趣味
     }
 
     @Override
