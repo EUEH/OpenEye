@@ -1,5 +1,6 @@
 package com.eueh.openeye.selection;
 
+import android.view.View;
 import android.widget.ListView;
 
 import com.eueh.openeye.R;
@@ -23,10 +24,10 @@ public class SelectionFragment extends BaseFragment {
 
 
     @Override
-    public void initView() {
-
+    public void initView(View view) {
 
     }
+
 
     @Override
     public void initData() {
