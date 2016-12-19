@@ -12,7 +12,7 @@ public class SelectionFragment extends BaseFragment {
     public int setLayout() {
         return R.layout.fragment_selection;
     }
-
+//etretr
     @Override
     public void initView() {
 
