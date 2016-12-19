@@ -24,7 +24,7 @@ public class SelectionFragment extends BaseFragment {
 
     @Override
     public void initView() {
-        
+
 
     }
 
