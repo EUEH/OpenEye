@@ -7,6 +7,7 @@ import com.eueh.openeye.base.BaseFragment;
  * Created by dllo on 16/12/19.
  */
 
+//关注页  陈小飞负责
 public class ConcernFragment extends BaseFragment {
     @Override
     public int setLayout() {
